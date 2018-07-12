@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CurrencyConverter()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CurrencyConverter\r\n
+comment1.params=amount\ currency
+comment1.target=void\ dollarConverter(double,\ char)
+comment1.text=\r\n\ converts\ dollars\ into\ whatever\ currency\ you\ want,\ expects\ two\ values\r\n\ \r\n\ @param\ \ double\ dollar\ \:\ dollar\ amount\ to\ convert\ \ currency\ \:\ set\ to\ what\ you\ want\ to\ convert\ to\r\n\r\n
+comment2.params=amount\ currency
+comment2.target=void\ setAmount(double,\ char)
+comment2.text=\r\n\ Set\ the\ monetary\ amount\ in\ whatever\ scale\ the\ user\ wants\ (mutator)\r\n\ \r\n\ @param\ \ double\ dollar\ \:\ dollar\ amount\ to\ convert\ \ currency\ \:\ set\ to\ what\ you\ want\ to\ convert\ to\r\n\ \ \ \ \ \ \ \ \ \r\n
+comment3.params=
+comment3.target=double\ getEuro()
+comment3.text=\r\nthese\ methods\ get\ the\ values\ you\ mutate\ with\ the\ mutator\ method,\ (accessors)\r\nand\ returns\ them\r\n\r\n\r\n@return\ converters\ the\ amount\ dependent\ on\ 'e'\=euro,\ 'b'\=british,\ 'y'\=yen\ in\ every\ other\ known\ conversion\r\n
+comment4.params=
+comment4.target=double\ getBritishPound()
+comment5.params=
+comment5.target=double\ getYen()
+numComments=6
